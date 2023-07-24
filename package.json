@@ -1,0 +1,15 @@
+{
+  "name": "04_rock_paper_scissors",
+  "version": "1.0.0",
+  "description": "This repository contains instructions and (where applicable) start code for exercises in the **Programming fundamentals** module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ansi-colors": "^4.1.3",
+    "readline": "^1.3.0"
+  }
+}
